@@ -1,4 +1,4 @@
-package edu.unifor.clysman.Linear;
+package me.clysman.jml.Linear;
 
 public class Matrix {
     private final int rows;

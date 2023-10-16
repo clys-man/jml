@@ -1,4 +1,4 @@
-package edu.unifor.clysman;
+package me.clysman.jml;
 
 import java.io.File;
 import java.lang.reflect.Method;

@@ -1,8 +1,8 @@
-package edu.unifor.clysman;
+package me.clysman.jml;
 
-import edu.unifor.clysman.Linear.LinearAlgebra;
-import edu.unifor.clysman.Linear.Matrix;
-import edu.unifor.clysman.Linear.Vector;
+import me.clysman.jml.Linear.LinearAlgebra;
+import me.clysman.jml.Linear.Matrix;
+import me.clysman.jml.Linear.Vector;
 
 public class PrintOperations {
     private final LinearAlgebra linearAlgebra = new LinearAlgebra();

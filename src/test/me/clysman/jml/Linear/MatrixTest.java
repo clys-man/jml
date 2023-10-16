@@ -1,6 +1,6 @@
-package edu.unifor.clysman.Linear;
+package me.clysman.jml.Linear;
 
-import edu.unifor.clysman.TestCase;
+import me.clysman.jml.TestCase;
 
 public class MatrixTest extends TestCase {
     public void testIfCanGetValueInMatrix() {

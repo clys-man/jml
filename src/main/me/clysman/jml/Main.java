@@ -1,4 +1,4 @@
-package edu.unifor.clysman;
+package me.clysman.jml;
 
 public class Main {
     public static void main(String[] args) {

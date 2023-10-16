@@ -1,4 +1,4 @@
-package edu.unifor.clysman.Linear;
+package me.clysman.jml.Linear;
 
 public class LinearAlgebra {
     public Matrix transpose(Matrix matrix) {

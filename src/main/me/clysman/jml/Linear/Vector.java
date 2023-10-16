@@ -1,4 +1,4 @@
-package edu.unifor.clysman.Linear;
+package me.clysman.jml.Linear;
 
 import java.util.Arrays;
 
